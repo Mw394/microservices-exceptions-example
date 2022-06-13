@@ -1,8 +1,8 @@
-package org.acme.resource.exception.mapper;
+package org.acme.resource.exception;
 
 import org.acme.resource.exception.ErrorResponse;
-import org.acme.resource.exception.customExceptions.CustomException;
-import org.acme.resource.exception.customExceptions.ExceptionType;
+import org.acme.resource.exception.CustomException;
+import org.acme.resource.exception.ExceptionType;
 
 import javax.ws.rs.core.Response;
 import javax.ws.rs.ext.ExceptionMapper;

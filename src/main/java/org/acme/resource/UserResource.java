@@ -2,8 +2,8 @@ package org.acme.resource;
 
 import org.acme.resource.dto.CreateUserDTO;
 import org.acme.resource.dto.UserDTO;
-import org.acme.resource.exception.customExceptions.CustomException;
-import org.acme.resource.exception.customExceptions.ExceptionType;
+import org.acme.resource.exception.CustomException;
+import org.acme.resource.exception.ExceptionType;
 import org.acme.service.UserService;
 
 import javax.ws.rs.GET;

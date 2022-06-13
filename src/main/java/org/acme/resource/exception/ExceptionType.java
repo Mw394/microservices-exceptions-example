@@ -1,4 +1,4 @@
-package org.acme.resource.exception.customExceptions;
+package org.acme.resource.exception;
 
 /*
 Enum of Types of Custom Exceptions you want to throw.

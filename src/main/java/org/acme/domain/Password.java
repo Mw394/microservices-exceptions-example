@@ -1,7 +1,7 @@
 package org.acme.domain;
 
-import org.acme.resource.exception.customExceptions.CustomException;
-import org.acme.resource.exception.customExceptions.ExceptionType;
+import org.acme.resource.exception.CustomException;
+import org.acme.resource.exception.ExceptionType;
 
 public class Password {
 

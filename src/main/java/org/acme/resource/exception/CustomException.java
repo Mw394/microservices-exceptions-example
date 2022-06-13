@@ -1,4 +1,4 @@
-package org.acme.resource.exception.customExceptions;
+package org.acme.resource.exception;
 
 import java.io.Serializable;
 
